@@ -1,6 +1,6 @@
 # 🎂 Birthday Reminder App
 
-A sleek, dark-themed birthday tracking application built with vanilla HTML, CSS, and JavaScript. Never forget important dates again!
+A sleek, dark-themed birthday tracking application built with vanilla HTML, CSS, and JavaScript. Made by Alvin Mun.
 
 ![App Screenshot](./screenshot.png) 
 
